@@ -18,7 +18,24 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<h2>About</h2>
+Hi. I'm sehyun Hwang, a student in SKKU South Korea.
+
+<h2>Education</h2>
+* __SKKU__,South Korea
+B.S., Software, 2021 ~
+
+<h2>Laungauge</h2>
+* C, C++, Python
+
+<h2>Project</h2>
+* __star-pickers__ mobility project, 2024.04~
+
+<h2>Concat</h2>
+* __Email__
+blue0533@g.skku.edu
+* __Github__
+https://github.com/saynow
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
